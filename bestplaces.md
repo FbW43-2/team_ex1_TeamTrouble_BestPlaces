@@ -1,7 +1,6 @@
 # team_ex1_TeamTrouble_BestPlaces
 
 
-places_leipzig
 ## Best places in and around Leipzig
 
 - ### Völkerschlachtdenkmal - is a monument to the Battle of the Nations.
