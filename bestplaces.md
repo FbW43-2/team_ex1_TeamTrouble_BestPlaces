@@ -1,6 +1,5 @@
 # A list of good places in Germany
 
-
 ## best places in and around Hamburg
 
 - ### Elbphiharmonie - The biggest opera house in Hamburg
