@@ -1,6 +1,16 @@
 # team_ex1_TeamTrouble_BestPlaces
 
 
+## Best places in and around Leipzig
+
+- ### Völkerschlachtdenkmal - is a monument to the Battle of the Nations.
+
+
+- ### Hauptbahnhof zu Leipzig - biggest terminus in Europe
+
+
+- ### Wintergartehochaus - first residential high-rise in the GDR
+
 ## Best Places in and around Hameln:
 
 - ### Altstadt - The town is famous for the folk tale of the Pied Piper of Hamelin (German: Der Rattenfänger von Hameln), a medieval story that tells of a tragedy that befell the town in the 13th century.
